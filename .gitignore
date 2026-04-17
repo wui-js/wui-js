@@ -1,0 +1,19 @@
+# OS
+
+._*
+.DS_Store
+.DS_Store?
+Thumbs.db
+
+# Inner
+
+.vscode
+.claude
+CLAUDE.md
+MEMORY.md
+NOTES.md
+
+# Trash
+
+_*
+*.bak
