@@ -11,7 +11,13 @@
 
 ## About the WUI/JS Project
 
-WUI/JS project currently consists of 4 repositories:
+WUI/JS (Web User Interface JavaScript) is an open-source framework for creating web interfaces using pure JavaScript and CSS: no dependencies, transpiler, or compilation process.
+
+It consists of two development libraries that can work independently or together: Main provides a complete set of ready-to-use user interface components, and Environment connects the web layer to the native Android and iOS engines, enabling the complete development of hybrid applications from a single JavaScript codebase. These are complemented by Plugins, a library that extends the framework with advanced themes and interaction patterns, and Lab, which offers interactive demos for each component.
+
+All libraries are available on GitHub and are published on npm under the account @wui-js.
+
+Repositories:
 
 -	[https://github.com/wui-js/wuijs-main-lib](https://github.com/wui-js/wuijs-main-lib)<br>
 	Main UI library.<br><br>
