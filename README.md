@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> The GitHub account `wuiproject` was migrated to `wui-js` to match the name with the NPM account.
+> The GitHub account `@wuiproject` was migrated to `@wui-js` to match the name with the NPM account.
 
 # WUI/JS Project
 
@@ -11,11 +11,13 @@
 
 ## About the WUI/JS Project
 
-WUI/JS Main Lib is part of the WUI/JS project, which currently consists of 3 repositories:
+WUI/JS project currently consists of 4 repositories:
 
 -	[https://github.com/wui-js/wuijs-main-lib](https://github.com/wui-js/wuijs-main-lib)<br>
-	UI main library.<br><br>
+	Main UI library.<br><br>
 -	[https://github.com/wui-js/wuijs-plugins-lib](https://github.com/wui-js/wuijs-plugins-lib)<br>
 	UI plugins library.<br><br>
+-	[https://github.com/wui-js/wuijs-environment-lib](https://github.com/wui-js/wuijs-environment-lib)<br>
+	Bridge library between a web environments and native web rendering engines.<br><br>
 -	[https://github.com/wui-js/wuijs-lab](https://github.com/wui-js/wuijs-lab)<br>
 	Repository with demos and usage examples for the project libraries.<br><br>
